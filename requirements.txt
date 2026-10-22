@@ -1,0 +1,4 @@
+openai>=1.60.0
+python-dotenv>=1.0.0
+lark>=1.1.9
+ipykernel>=6.25.0
